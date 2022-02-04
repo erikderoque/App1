@@ -47,4 +47,5 @@ import android.widget.Toast
          val avisoDestroy= Toast.makeText(applicationContext, "La aplicacion ha sido destruida onDestroy()",Toast.LENGTH_LONG)
          avisoDestroy.show()
      }
+     //este es un comentario
 }
